@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "JavaGuideAngularFrontEnd"
+    }
+  },
+  "defaultProject": "JavaGuideAngularFrontEnd",
+  "cli": {
+    "analytics": false
+  }
 }
